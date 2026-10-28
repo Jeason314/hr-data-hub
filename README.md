@@ -14,8 +14,7 @@
 | 入口 | 链接 |
 | --- | --- |
 | Hub Demo（GitHub Pages） | https://jeason314.github.io/hr-data-hub/ |
-| 系统线上预演 Demo | https://hr-decision-hub.app.workbuddy.host/ |
-| 观星看板示例 | https://hr-decision-hub.app.workbuddy.host/guanxing.html |
+| 观星看板示例（脱敏测试数据，GitHub Pages） | https://jeason314.github.io/hr-data-hub/guanxing.html |
 
 ## 背景与目标
 
@@ -175,5 +174,5 @@ npm run verify     # 回归验证（数据 / 映射 / 口径 / 渲染）
 ## 交付物链接
 
 - Hub v1 代码仓库：https://github.com/Jeason314/hr-data-hub
-- 观星看板示例：https://hr-decision-hub.app.workbuddy.host/guanxing.html
-- 系统线上预演 Demo：https://hr-decision-hub.app.workbuddy.host/
+- 观星看板示例（脱敏测试数据）：https://jeason314.github.io/hr-data-hub/guanxing.html
+- Hub Demo（GitHub Pages）：https://jeason314.github.io/hr-data-hub/
