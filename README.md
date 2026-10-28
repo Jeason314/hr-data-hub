@@ -15,6 +15,7 @@
 | --- | --- |
 | Hub Demo（GitHub Pages） | https://jeason314.github.io/hr-data-hub/ |
 | 观星看板示例（脱敏测试数据，GitHub Pages） | https://jeason314.github.io/hr-data-hub/guanxing.html |
+| 看板报告示例（脱敏测试数据，GitHub Pages） | https://jeason314.github.io/hr-data-hub/demo_%E7%9C%8B%E6%9D%BF%E6%8A%A5%E5%91%8A_%E6%9C%80%E6%96%B0.html |
 
 ## 背景与目标
 
@@ -175,4 +176,5 @@ npm run verify     # 回归验证（数据 / 映射 / 口径 / 渲染）
 
 - Hub v1 代码仓库：https://github.com/Jeason314/hr-data-hub
 - 观星看板示例（脱敏测试数据）：https://jeason314.github.io/hr-data-hub/guanxing.html
+- 看板报告示例（脱敏测试数据）：https://jeason314.github.io/hr-data-hub/demo_%E7%9C%8B%E6%9D%BF%E6%8A%A5%E5%91%8A_%E6%9C%80%E6%96%B0.html
 - Hub Demo（GitHub Pages）：https://jeason314.github.io/hr-data-hub/
